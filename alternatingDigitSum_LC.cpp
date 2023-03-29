@@ -9,6 +9,7 @@ public:
         }
         reverse(ans.begin(),ans.end());
         int sum=0;
+        
         bool kachhi=false;
         for(int i=0;i<ans.size();i++)
         {
